@@ -8,7 +8,7 @@
 
 * Create a Folder and give it your name
 
-* Fork this repository (https://github.com/faithobodo/biweeklychallenge3)
+* Fork this repository (https://github.com/faithobodo/Biweeklychallenge_3)
 
 * Create a branch with your name, add your folder to the repository
 
